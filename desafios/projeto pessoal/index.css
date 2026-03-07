@@ -1,0 +1,40 @@
+@charset "UTF-8"
+
+*{
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(#0a31cc, rgb(206, 22, 22), #fffb00);
+    background-attachment: fixed;
+}
+.texto, .texto2{
+    background-image: aquamarine, blue;
+    box-shadow: 10px;
+    margin: auto;
+    padding: 10px;
+    border: 10px;
+    left: 10px;
+}
+h1,h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    font-weight: lighter;
+    font-style: initial;
+}
+ol,li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+}
+}
+
+
